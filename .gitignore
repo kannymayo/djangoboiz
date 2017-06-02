@@ -1,0 +1,7 @@
+.idea/
+.vagrant/
+ubuntu-xenial-16.04-cloudimg-console.log
+yoyoyo/db.sqlite3
+yoyoyo/blog/__pycache__/
+yoyoyo/testp/__pycache__/
+yoyoyo/blog/migrations/__pycache__/
